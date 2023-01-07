@@ -1,0 +1,61 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "XAOXUU",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/2f74810ceb3d3.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "swcode",
+      "url": "https://sx-code.github.io/",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/swcode.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "杜老师说",
+      "url": "https://dusays.com/",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/杜老师说.webp",
+      "screenshot": "",
+      "description": "师者，传道，授业，解惑！"
+    },
+    {
+      "title": "labuladong",
+      "url": "https://labuladong.github.io/algo/",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/labuladong.png",
+      "screenshot": "",
+      "description": "LABULADONG 的算法网站"
+    },
+    {
+      "title": "蟬時雨",
+      "url": "https://chanshiyu.com/",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/chanshiyu.ico",
+      "screenshot": "",
+      "description": "蝉鸣如雨 花宵道中"
+    },
+    {
+      "title": "Dawei Ma",
+      "url": "https://www.bmpi.dev/",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/DaweiMa.png",
+      "screenshot": "",
+      "description": "构建我的被动收入"
+    },
+    {
+      "title": "bootlin",
+      "url": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/bootlin.png",
+      "avatar": "https://cdn.fygod.xyz/2022-05-01/2penguins-students.png",
+      "screenshot": "",
+      "description": "Elixir Cross Referencer"
+    },
+    {
+      "title": "Yanliang",
+      "url": "https://yanliang.cool",
+      "avatar": "https://gcore.jsdelivr.net/gh/stellariumImpl/CDN/fri/yanliang.svg",
+      "screenshot": "",
+      "description": "Believe in yourself."
+    }
+  ]
+}
